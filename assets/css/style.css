@@ -1,0 +1,48 @@
+.topnav{
+    width:100%;
+    font-size: 24px;
+    background-color: red;
+    float:right;
+    text-align: right;
+    padding: 00px 100px;
+    overflow: hidden;
+}
+
+.topnav a.active {
+    color: red;
+}
+
+.navname {
+    background-color:dodgerblue;
+    padding: 30px;
+    float:left;
+    position:relative;
+    left:200px;
+}
+
+a {
+    position:relative;
+    top:30px;
+}
+
+a:link {
+    text-decoration: none;
+    color: #777;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #444;
+}
+
+
+h1 {
+    color:white; 
+    font-size: 34px;
+}
+
+img {
+    border-radius: 25px;
+
+}
+
